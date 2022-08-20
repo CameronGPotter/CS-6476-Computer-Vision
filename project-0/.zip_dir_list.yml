@@ -1,0 +1,6 @@
+required_directories:
+  - src
+required_files:
+  - setup.cfg
+optional_files:
+  - README.txt

@@ -1,0 +1,15 @@
+name: cv_proj0
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - bandit
+  - flake8
+  - jupyter
+  - matplotlib
+  - mypy
+  - numpy
+  - pytest
+  - pyyaml
+  - pytorch-cpu
+  - torchvision-cpu=0.2
